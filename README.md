@@ -5,11 +5,11 @@ ETF literatures
 <summary> <h3>Literatures</h3> </summary>
 
 <details>
-<summary>公募基金改善了市场定价效率吗？——持股基金质量与股票收益**</summary>
+<summary>公募基金改善了市场定价效率吗？——持股基金质量与股票收益</summary>
 
--**Finding**: 持股基金质量较高的股票未来表现显著优于质量较低的股票
+- **Finding**: 持股基金质量较高的股票未来表现显著优于质量较低的股票
 
--**Mechanism**: 基金经理挖掘出错误定价现象
+- **Mechanism**: 基金经理挖掘出错误定价现象
 
 [download](./papers/%5B9%5D%20公募基金改善了市场定价效率吗？——持股基金质量与股票收益.pdf)
 

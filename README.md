@@ -662,13 +662,15 @@ ETF literatures
 
 ## Idiosyncratic Risk
 <details>
-<summary> Literatures </summary>
+<summary> <h3>Literatures</h3> </summary>
 
 <details>
-<summary>Costly arbitrage and the myth of idiosyncratic risk**</summary>
+<summary>Costly arbitrage and the myth of idiosyncratic risk</summary>
 
 -**Finding**: Transaction and holding costs make arbitrage costly
+
 -**Mechanism**: Idiosyncratic risk is the single largest cost faced by arbitrageurs since it limits the size of positions on each security
+
 -[download](./papers/%5B37%5D%20Costly%20arbitrage%20and%20the%20myth%20of%20idiosyncratic%20risk%202006%20JAE.pdf)
 
 </details>

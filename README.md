@@ -3,6 +3,7 @@ ETF literatures
 ## Chinese Market
 <details>
 <summary> Literatures </summary>
+
 -**公募基金改善了市场定价效率吗？——持股基金质量与股票收益**
     **Finding**: 持股基金质量较高的股票未来表现显著优于质量较低的股票
     **Mechanism**: 基金经理挖掘出错误定价现象
@@ -81,6 +82,7 @@ ETF literatures
 ## Tail Risk
 <details>
 <summary> Literatures </summary>
+
 -**机构投资与金融稳定——基于A股ETF套利交易的视角**
     **Finding**: ETF增加股票市场的系统性风险
     **Mechanism**: 机构投资者关于ETF的折价套利
@@ -107,6 +109,7 @@ ETF literatures
 ## Arbitrage
 <details>
 <summary> Literatures </summary>
+
 -**机构投资与金融稳定——基于A股ETF套利交易的视角**
     **Finding**: ETF增加股票市场的系统性风险
     **Mechanism**: 机构投资者关于ETF的折价套利
@@ -169,6 +172,7 @@ ETF literatures
 ## Liquidity
 <details>
 <summary> Literatures </summary>
+
 -**ETF、股票流动性与股价崩盘风险**
     **Finding**: ETF持股比例越高，个股下一年的崩盘风险越大
     **Mechanism**: ETF持股比例增加，个股流动性增加，吸引短期投资者加入，管理层隐藏负面信息的激励增加
@@ -215,6 +219,7 @@ ETF literatures
 ## Volatility
 <details>
 <summary> Literatures </summary>
+
 -**机构投资与金融稳定——基于A股ETF套利交易的视角**
     **Finding**: ETF增加股票市场的系统性风险
     **Mechanism**: 机构投资者关于ETF的折价套利
@@ -277,6 +282,7 @@ ETF literatures
 ## Sentiment
 <details>
 <summary> Literatures </summary>
+
 -**投资者情绪能够解释ETF的折溢价吗?——来自A股市场的经验证据**
     **Finding**: 投资者情绪与ETF溢价率正相关，在悲观市场中表现为负相关
     **Mechanism**: 无
@@ -295,6 +301,7 @@ ETF literatures
 ## Market Efficiency
 <details>
 <summary> Literatures </summary>
+
 -**公募基金改善了市场定价效率吗？——持股基金质量与股票收益**
     **Finding**: 持股基金质量较高的股票未来表现显著优于质量较低的股票
     **Mechanism**: 基金经理挖掘出错误定价现象
@@ -333,6 +340,7 @@ ETF literatures
 ## Ownership
 <details>
 <summary> Literatures </summary>
+
 -**公募基金改善了市场定价效率吗？——持股基金质量与股票收益**
     **Finding**: 持股基金质量较高的股票未来表现显著优于质量较低的股票
     **Mechanism**: 基金经理挖掘出错误定价现象
@@ -361,6 +369,7 @@ ETF literatures
 ## Flow
 <details>
 <summary> Literatures </summary>
+
 -**ETF资金流、市场收益与投资者情绪——来自A股市场的经验证据**
     **Finding**: 市场收益高的时候，ETF flow更低
     **Mechanism**: 无
@@ -387,6 +396,7 @@ ETF literatures
 ## Regulation
 <details>
 <summary> Literatures </summary>
+
 -**股票停牌、涨跌停与ETF定价效率——基于上证50ETF日度数据的实证研究**
     **Finding**: ETF市场价格可能大幅偏离净值，但并非套利机会
     **Mechanism**: 底层资产的涨跌停或停牌
@@ -404,6 +414,7 @@ ETF literatures
 ## Index Providers
 <details>
 <summary> Literatures </summary>
+
 -**Index providers: Whales behind the scenes of ETFs**
     **Finding**: The index provider market is highly concentrated;
     Investors care about the identities of index providers, although they explain little variation in ETF returns;
@@ -416,6 +427,7 @@ ETF literatures
 ## Information
 <details>
 <summary> Literatures </summary>
+
 -**Exchange-Traded Funds and Real Investment**
     **Finding**: Higher ETF ownership is associated with:
     An increased sensitivity of real investment to Tobin’s q;
@@ -452,6 +464,7 @@ ETF literatures
 ## Momentum
 <details>
 <summary> Literatures </summary>
+
 -**Factor Momentum**
     **Finding**: Factors display strong cross-sectional momentum that subsumes momentum in industries and other portfolio characteristics
     **Mechanism**: None
@@ -482,6 +495,7 @@ ETF literatures
 ## Reversal
 <details>
 <summary> Literatures </summary>
+
 -**Industries and Stock Return Reversals**
     **Finding**: Intra-industry reversals in monthly returns
     **Mechanism**: By order imbalances and noninformational shock
@@ -492,6 +506,7 @@ ETF literatures
 ## ETF Fees
 <details>
 <summary> Literatures </summary>
+
 -**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**
     **Finding**: Many expensive index funds live, indicating market power existence
     **Mechanism**: Investor inertia and information friction
@@ -506,6 +521,7 @@ ETF literatures
 ## Leveraged ETF
 <details>
 <summary> Literatures </summary>
+
 -**Recovering Investor Expectations from Demand for Index Funds**
     **Finding**: A revealed-preference approach to estimate investor expectations of stock market returns. Investor expectations are heterogeneous, extrapolative, and persistent
     **Mechanism**: By the prevalence of leveraged funds that track the same underlying asset: by choosing between higher and lower leverage, investors trade off higher return against less risk
@@ -520,6 +536,7 @@ ETF literatures
 ## Trading Cost
 <details>
 <summary> Literatures </summary>
+
 -**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**
     **Finding**: Many expensive index funds live, indicating market power existence
     **Mechanism**: Investor inertia and information friction
@@ -542,6 +559,7 @@ ETF literatures
 ## Active Management
 <details>
 <summary> Literatures </summary>
+
 -**Steering a Ship in Illiquid Waters: Active Management of Passive Funds**
     **Finding**: Corporate bond ETFs actively manage their portfolios
     **Mechanism**: ETFs trade off index tracking against liquidity transformation
@@ -552,6 +570,7 @@ ETF literatures
 ## Ambiguity
 <details>
 <summary> Literatures </summary>
+
 -**Ambiguity and private investors’ behavior after forced fund liquidations**
     **Finding**: Investors reinvest 87% of forced liquidations when the refund occurs on a day of low ambiguity and 0% when it occurs on a day of high ambiguity
     **Mechanism**: Ambiguity averse makes investors inert
@@ -561,6 +580,7 @@ ETF literatures
 ## Idiosyncratic Risk
 <details>
 <summary> Literatures </summary>
+
 -**Costly arbitrage and the myth of idiosyncratic risk**
     **Finding**: Transaction and holding costs make arbitrage costly
     **Mechanism**: Idiosyncratic risk is the single largest cost faced by arbitrageurs since it limits the size of positions on each security

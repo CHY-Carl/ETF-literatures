@@ -1325,3 +1325,54 @@ download to be added
 
 </details>
 
+
+
+## tmp_added
+<details>
+<summary> <h3>Literatures</h3> </summary>
+
+<details>
+<summary>LimitsToDiversification_PassiveInves</summary>
+
+- **Finding**: ######
+
+- **Mechanism**: ######
+
+[download](./papers/%5B50%5D%20LimitsToDiversification_PassiveInves_preview.pdf)
+
+</details>
+
+<details>
+<summary>Corporate responses to stock price fragility</summary>
+
+- **Finding**: ######
+
+- **Mechanism**: ######
+
+[download](./papers/%5B52%5D%20Corporate%20responses%20to%20stock%20price%20fragility%202024%20JFE.pdf)
+
+</details>
+
+<details>
+<summary>Minority state ownership and firm performance Evidence from the Chinese stock market</summary>
+
+- **Finding**: ######
+
+- **Mechanism**: ######
+
+[download](./papers/%5B53%5D%20Financial%20Management%20-%202023%20-%20Liu%20-%20Minority%20state%20ownership%20and%20firm%20performance%20%20Evidence%20from%20the%20Chinese%20stock%20market.pdf)
+
+</details>
+
+<details>
+<summary>A Sub penny for Your Thoughts Tracking Retail Investor Activity in TAQ</summary>
+
+- **Finding**: ######
+
+- **Mechanism**: ######
+
+[download](./papers/%5B54%5D%20The%20Journal%20of%20Finance%20-%202024%20-%20BARBER%20-%20A%20%20Sub%20penny%20for%20Your%20Thoughts%20%20Tracking%20Retail%20Investor%20Activity%20in%20TAQ.pdf)
+
+</details>
+
+</details>
